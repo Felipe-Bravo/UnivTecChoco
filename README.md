@@ -1,6 +1,11 @@
 # Universidad Téncnica del Chocó (Colombia)
 Material para el curso de estadística aplicada para personal de la Universidad Técnica del Chocó (octubre, 2020)
 
+*Tareas previas*
+1. Instalar R: https://cran.r-project.org/
+2. Instalar RStudio: https://rstudio.com/
+3. Definir un directorio de trabajo para el curso
+
 *Códigos en R*
 
 RegresionLineal_Reineke.r
