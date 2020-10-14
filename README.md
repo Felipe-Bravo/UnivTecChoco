@@ -9,3 +9,8 @@ RegresionLineal_Reineke.r
 
 Pnig_34_eng_noSDI.csv
 
+*Recursos complementarios*
+
+1. Análisis de datos selvícolas con R: http://uvadoc.uva.es/bitstream/handle/10324/11889/2015_Bravo%20et%20al_AnalisisDatosSelvicolas_conR.pdf?sequence=1&isAllowed=y
+2. Materiales del curso sobre *Adaptive Management: Developing innovative alternatives for bioeconomy*: https://github.com/Felipe-Bravo/BioEcon.AdaptiveManagement
+
