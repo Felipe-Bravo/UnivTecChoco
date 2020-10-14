@@ -15,7 +15,8 @@ Estos métodos se ejemplican con datos forestales procedentes de bosques españo
 
 *Datos*
 
-Pnig_34_eng_noSDI.csv
+REgresión lineal: Pnig_34_eng_noSDI.csv
+Regresión no lineal: DATA4_SiteIndex.csv
 
 *Recursos complementarios*
 
