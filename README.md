@@ -1,4 +1,4 @@
-# Universidad Téncnica del Chocó (Colombia)
+# Universidad Técnica del Chocó (Colombia)
 Material para el curso de estadística aplicada para personal de la Universidad Técnica del Chocó (octubre, 2020)
 El curso consta de 3 sesiones centradas en regresión lineal, regresión lineal y análisis de componentes principales. 
 Estos métodos se ejemplifican con datos forestales procedentes de bosques españoles.
