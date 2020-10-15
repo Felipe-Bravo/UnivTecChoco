@@ -17,9 +17,9 @@ Estos métodos se ejemplifican con datos forestales procedentes de bosques espa�
 
 *Datos*
 
-a. REgresión lineal: Pnig_34_eng_noSDI.csv
-b. Regresión no lineal: DATA4_SiteIndex.csv
-c.      PCA y Análisis discriminante: DATOS2.txt
+- Regresión lineal: Pnig_34_eng_noSDI.csv
+- Regresión no lineal: DATA4_SiteIndex.csv
+- PCA y Análisis discriminante: DATOS2.txt
 
 *Recursos complementarios*
 
