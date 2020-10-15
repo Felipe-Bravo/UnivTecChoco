@@ -12,11 +12,14 @@ Estos métodos se ejemplifican con datos forestales procedentes de bosques espa�
 
 1. RegresionLineal_Reineke.r
 2. Regresion_Nolineal_SI.r
+3.
+4. AnalisisDiscriminante_SI.r
 
 *Datos*
 
 REgresión lineal: Pnig_34_eng_noSDI.csv
 Regresión no lineal: DATA4_SiteIndex.csv
+PCA y Análisis discriminante: DATOS2.txt
 
 *Recursos complementarios*
 
