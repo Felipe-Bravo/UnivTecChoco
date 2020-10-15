@@ -8,7 +8,7 @@ Estos métodos se ejemplifican con datos forestales procedentes de bosques espa�
 2. Instalar RStudio: https://rstudio.com/
 3. Definir un directorio de trabajo para el curso
 
-*Códigos en R*
+*Programas (scripts) en R*
 
 1. RegresionLineal_Reineke.r
 2. Regresion_Nolineal_SI.r
