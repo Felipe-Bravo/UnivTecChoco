@@ -25,5 +25,6 @@ Estos métodos se ejemplifican con datos forestales procedentes de bosques espa�
 
 1. Análisis de datos selvícolas con R: http://uvadoc.uva.es/bitstream/handle/10324/11889/2015_Bravo%20et%20al_AnalisisDatosSelvicolas_conR.pdf?sequence=1&isAllowed=y
 2. Materiales del curso sobre *Adaptive Management: Developing innovative alternatives for bioeconomy*: https://github.com/Felipe-Bravo/BioEcon.AdaptiveManagement
-3. Datos del Inventario Forestal de España: https://forestexplorer.gsic.uva.es
+3. James,G, Witten, D., Hastie, T, Tibshirani, R. 2013 An introduction to statistical learning with applications in R Springer http://faculty.marshall.usc.edu/gareth-james/ISL/index.html                                    
+4. Datos del Inventario Forestal de España: https://forestexplorer.gsic.uva.es
 
